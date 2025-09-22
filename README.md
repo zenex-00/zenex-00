@@ -1,4 +1,4 @@
-[ReadMe (1).md](https://github.com/user-attachments/files/22467043/ReadMe.1.md)
+[ReadMe.md](https://github.com/user-attachments/files/22467890/ReadMe.md)
 # 💫 About Me:
 👋 Hi, I’m **Zunair**<br>💻 Full-stack developer | AI chatbot builder | Automation nerd<br>🚀 I take ideas from “what if” to “it works”<br><br>I build:<br><br>* AI-powered chatbots that don’t sound like customer support in 2009<br>* Web apps that don’t collapse when actual users show up<br>* Automations that save businesses hours they didn’t know they were wasting<br><br>Current focus:<br><br>* Turning AI experiments into real products<br>* Helping businesses grow without adding more human headaches<br>* Writing cleaner code than yesterday (the competition is me, not you)<br><br>When I’m not coding:<br><br>* Reading docs I swore I wouldn’t touch<br>* Breaking something just to fix it better<br>* Plotting how to make AI do more of the boring stuff<br><br>📫 Ping me if you want to build something smart, fast, and a little dangerous.<br><br><br>
 
